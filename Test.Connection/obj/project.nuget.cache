@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/IdToPt4i5slm1iGlIz9ejP8PoEAeGoUfIC3fVQQQBtq2tPXX4ImZ2a80k97qAgJWb1erQQMy6TEYsmow4e9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fikret\\source\\repos\\Toaster\\Test.Connection\\Test.Connection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikret\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\fikret\\.nuget\\packages\\watsontcp\\4.8.0\\watsontcp.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\bin\Debug\netstandard2.0\Toaster.Connection.deps.json
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\bin\Debug\netstandard2.0\Toaster.Connection.dll
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\bin\Debug\netstandard2.0\Toaster.Connection.pdb
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\obj\Debug\netstandard2.0\Toaster.Connection.csprojAssemblyReference.cache
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\obj\Debug\netstandard2.0\Toaster.Connection.AssemblyInfoInputs.cache
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\obj\Debug\netstandard2.0\Toaster.Connection.AssemblyInfo.cs
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\obj\Debug\netstandard2.0\Toaster.Connection.csproj.CoreCompileInputs.cache
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\obj\Debug\netstandard2.0\Toaster.Connection.dll
+C:\Users\fikret\source\repos\Toaster\Toaster.Connection\obj\Debug\netstandard2.0\Toaster.Connection.pdb

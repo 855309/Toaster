@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xqKg5GAujdKdPb/0sTvkxE/PSUyfi5PJFlT8K4uc8mgtnWUrgWy0cK+oBGug+G95J4Yu1HoD6JrsvttsPVhuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fikret\\source\\repos\\Toaster\\Toaster.Connection\\Toaster.Connection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fikret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fikret\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\fikret\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\fikret\\.nuget\\packages\\watsontcp\\4.8.0\\watsontcp.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
